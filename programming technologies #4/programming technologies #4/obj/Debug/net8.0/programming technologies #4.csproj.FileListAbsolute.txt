@@ -1,0 +1,14 @@
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\bin\Debug\net8.0\programming technologies #4.exe
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\bin\Debug\net8.0\programming technologies #4.deps.json
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\bin\Debug\net8.0\programming technologies #4.runtimeconfig.json
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\bin\Debug\net8.0\programming technologies #4.dll
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\bin\Debug\net8.0\programming technologies #4.pdb
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.dll
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\refint\programming technologies #4.dll
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.pdb
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\programming technologies #4.genruntimeconfig.cache
+C:\Users\pavlo\source\repos\programming technologies #4\programming technologies #4\obj\Debug\net8.0\ref\programming technologies #4.dll
